@@ -12,6 +12,7 @@
              - ./Emulation/bios (BIOS & firmware files, if needed by emulator)
              - ./Emulation/dlc (Game DLC, if any, organized by console and then by game)
              - ./Emulation/emulators (Emulators themselves. Potentially investigate a method to download these from their source at runtime?)
+             - ./Emulation/mods (Game mods & textures, organized by console and then by game)
              - ./Emulation/patches (Patches & updates for games, organized by console and then by game)
              - ./Emulation/roms (Games themselves, organized by console)
              - ./Emulation/saves (Save files, organized by console and then by game)
